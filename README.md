@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![](https://raw.githubusercontent.com/code-with-Anson/code-with-Anson/refs/heads/main/AnsonLeo_ba-style%40logo.bluearchive.cc.png)
 <!--
 **code-with-Anson/code-with-Anson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
