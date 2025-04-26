@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/code-with-Anson/code-with-Anson/refs/heads/main/AnsonLeo_ba-style%40logo.bluearchive.cc.png" width="260">
+  <img src="https://github.com/code-with-Anson/code-with-Anson/blob/main/1745692649059.jpg" width="260">
 </div>
